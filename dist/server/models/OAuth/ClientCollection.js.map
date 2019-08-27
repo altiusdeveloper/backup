@@ -1,0 +1,1 @@
+{"version":3,"file":"ClientCollection.js","sourceRoot":"","sources":["../../../../server/models/OAuth/ClientCollection.ts"],"names":[],"mappings":";;AAEA,gDAA6C;AAE7C,MAAM,gBAAgB,GAAa;IAC/B;QACI,EAAE,EAAE,sCAAsC;QAC1C,IAAI,EAAE,yBAAyB;QAC/B,MAAM,EAAE,iBAAiB;QACzB,WAAW,EAAE,GAAG,iBAAO,uBAAuB;KACjD;IACD,2BAA2B;CAC9B,CAAC;AAEF,kBAAe,gBAAgB,CAAC"}
