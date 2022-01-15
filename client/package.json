@@ -17,7 +17,7 @@
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
     "semantic-ui-react": "^0.87.3",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.5",
     "typescript": "^3.5.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
     "@types/http-proxy-middleware": "^0.19.2",
